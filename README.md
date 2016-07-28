@@ -24,7 +24,7 @@ Como citado anteriormente, a série é composta por 4 histórias:
 
 - Vs. the internet
 - Vs. the world
-- Vs. the dimentions
+- Vs. the dimensions
 - Vs. the universe
 
 Nota-se que o título de cada história "engloba" o título da história anterior. A internet está em nosso mundo, que está em uma dimensão, que está em um universo.
@@ -45,7 +45,7 @@ Os "escolhidos" são pessoas que receberam o poder divino de uma entidade mister
 
 Veja mais>>
 
-#Vs. the dimention
+#Vs. the dimensions
 Um novo espaço foi aberto no universo para criação de um novo planeta e de nova vida. O conselho dos deuses foi convencido pelo universo de uma das 11 dimensões à deixar que uma criação pessoal sua tomasse conta desse espaço. Ele criou um planeta e criou vida. Sua arrogância foi aumentando cada vez mais e ele acabou como os outros deuses. Abusou e brincou com suas criações, mas foi até o momento onde uma de suas criaturas mais elaboradas se revoltou contra ele.
 
 Na disputa entre criador e criatura é fácil ver o resultado: a criatura perde. O rancor ficou na criatura que foi expulsa para outra dimensão. Só que isso não foi o suficiente para o derrubar. Ele tinha o poder que ele recebeu de seu criador. Podia saltar entre dimensões. Era só uma questão de tempo dele se preparar e voltar à sua dimensão natal para o acerto de contas.
