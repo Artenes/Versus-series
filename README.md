@@ -1,7 +1,7 @@
 # Versus series | Série Versus | Vs. series
 Anotações sobre uma série de histórias que venho elaborando desde quando era criança.
 
-#Intodução
+#Introdução
 Versus series ou série versus ou vs. series, é uma série de 4 histórias, onde cada uma não possui conexão direta com a outra, mas possui enredo e personagens similares. 
 
 Esta série se fundamenta no confronto entre uma entidade poderosa e uma entidade fraca (dai o nome versus). Essa entidade poderosa comumente é um deus e a entidade fraca comumente é uma criação direta ou indireta desse deus. 
