@@ -36,25 +36,31 @@ O mundo está saturado. Muito consumo, muita oferta e tudo chegando ao seu limit
 
 É nesse contexto que a protagonista da história se encontra. Ao ser infectada por um vírus (digital) e ter sobrevivido, ela ganhou a capacidade de infectar máquinas com o vírus que tentou matar ela. Junto com outros sobreviventes, redes sociais e países, ela tenta impedir o avanço dos planos cataclísmicos das empresas de tecnologia que estão tentando varrer o mundo da Internet.
 
-Veja mais>>
+[Veja mais>>](vs_the_internet/README.md)
 
 #Vs. the world
 Com a destruição em massa de grandes cidades ao redor do mundo real, uma guerra se inicia entre os "escolhidos". De um lado, os "olhos negros", buscam eliminar toda vida - eles estão "libertando" a vida de sua própria prisão. De outro, todos os outros "escolhidos" passam a se organizar para proteger seus ideias e evitar que mais mortes e destruição possam ser causados pelos "olhos negros".
 
 Os "escolhidos" são pessoas que receberam o poder divino de uma entidade misteriosa. Como se eles tivessem recebido esse poder para causar destruição em primeiro lugar. Cada "escolhido" segue um ideal e quando esses ideais se chocam, uma guerra é inevitável.
 
-Veja mais>>
+[Veja mais>>](vs_the_world/README.md)
 
 #Vs. the dimensions
 Um novo espaço foi aberto no universo para criação de um novo planeta e de nova vida. O conselho dos deuses foi convencido pelo universo de uma das 11 dimensões à deixar que uma criação pessoal sua tomasse conta desse espaço. Ele criou um planeta e criou vida. Sua arrogância foi aumentando cada vez mais e ele acabou como os outros deuses. Abusou e brincou com suas criações, mas foi até o momento onde uma de suas criaturas mais elaboradas se revoltou contra ele.
 
 Na disputa entre criador e criatura é fácil ver o resultado: a criatura perde. O rancor ficou na criatura que foi expulsa para outra dimensão. Só que isso não foi o suficiente para o derrubar. Ele tinha o poder que ele recebeu de seu criador. Podia saltar entre dimensões. Era só uma questão de tempo dele se preparar e voltar à sua dimensão natal para o acerto de contas.
 
-Veja mais>>
+[Veja mais>>](vs_the_dimensions/README.md)
 
 #Vs. the universe
 Agora o criador do criador da criatura irá ocupar o seu lugar. Os universos das 11 dimensões estão tramando a derrubada do conselho dos deuses. Estes ficam aterrorizados ao descobrir, pois o que pode um deus contra àquele que o contem: o universo? Eles terão de agir com cautela e avaliar cada passo dado por essas entidades absolutas.
 
 Mesmo sendo o universo, os universos não podem simplesmente fazer o que quiser. Existem limitações na forma como tudo funciona. Por isso eles precisam recorrer à métodos manuais para conseguir alcançar seu objetivo. Dividir e conquistar é uma ótima estratégia para compensar essa falta de controle sobre tudo.
 
-Veja mais>>
+[Veja mais>>](vs_the_universe/README.md)
+
+#Arquivos
+
+Com o passar do tempo fui pensando em várias formas na qual todas essas histórias poderiam acontecer. Algumas ideias foram mantidas e outras descartadas. "Os Arquivos" é o lugar onde deixo qualquer ideia que não foi aproveitada na construção da série. Assim posso ver como as coisas foram evoluindo no decorrer do tempo e sentir um pouco de nostalgia vendo materiais de mais de 10 anos atras.
+
+[Veja mais>>](arquivados/README.md)
